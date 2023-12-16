@@ -1,2 +1,2 @@
 # DSA
-daily github practice with questions and solutions
+daily DSA practice with questions and solutions
